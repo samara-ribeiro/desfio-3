@@ -1,0 +1,21 @@
+{
+  "name": "desafio-3",
+  "version": "1.0.0",
+  "description": "Desafio 3 do programa de residência em Software.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samara Ribeiro",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}

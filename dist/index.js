@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const app1_1 = require("./Aplicacoes/app1");
+const app2_1 = require("./Aplicacoes/app2");
+const app3_1 = require("./Aplicacoes/app3");
+const app4_1 = require("./Aplicacoes/app4");
+const app5_1 = require("./Aplicacoes/app5");
+(0, app1_1.app1)();
+(0, app2_1.app2)();
+(0, app3_1.app3)();
+(0, app4_1.app4)();
+(0, app5_1.app5)();
